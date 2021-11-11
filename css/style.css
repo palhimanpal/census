@@ -14,7 +14,7 @@ body {
     border: 2px solid black; 
     align-content: center; 
    
-   @media (min-width: 992px) {
+   @media (min-width: 340px) {
     .nav .container-fluid {
        
         padding-left: 52px;
